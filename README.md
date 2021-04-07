@@ -1,0 +1,1 @@
+# Projecao_de_Serie_Temporal_da_Emissao_de_Gases_de_Efeito_Estufa_com_LSTM
